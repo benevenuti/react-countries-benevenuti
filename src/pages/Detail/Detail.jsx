@@ -1,8 +1,8 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 import { connect } from 'react-redux';
-import Header from '../../features/Header/Header';
-import CountryDetail from '../../features/CountryDetail/CountryDetail';
+import Header from '../../components/Header/Header';
+import CountryDetail from '../../components/CountryDetail/CountryDetail';
 import { Container } from '../../assets/styles/Lib';
 
 const Detail = props => {
