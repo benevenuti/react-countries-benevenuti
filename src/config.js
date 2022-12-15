@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 // initial theme
 import ThemeDark from './assets/styles/ThemeDark';
 import ThemeLight from './assets/styles/ThemeLight';

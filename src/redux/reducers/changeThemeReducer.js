@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import { defineState } from 'redux-localstore';
 import { Config } from '../../config';
 import { CHANGE_THEME } from '../actions/actionTypes';

@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import { defineState } from 'redux-localstore';
 import { LOAD_COUNTRIES } from '../actions/actionTypes';
 
