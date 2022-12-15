@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import { defineState } from 'redux-localstore';
 import { ADD_FAV, DEL_FAV } from '../actions/actionTypes';
 
